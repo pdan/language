@@ -150,29 +150,90 @@
    Tom awoke at daybreak.
    📖 stop sleeping
 #### Bake
+   Tom baked some muffins.
+   📖 cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface
 #### Bathe
+   I bathe every day.
+   📖 wash yourself or someone else in a bath
 #### Be
-#### BearBeat
+   He is immature.
+   📖 
+#### Bear
+   bearer(n) bearable(adj) bearably(adv)
+   I wish she wouldn’t eat so fast. I can’t bear watching her.
+   📖 to bravely accept or deal with painful , difficult or upsetting situation
+#### Beat
+   baet(n) beating(n) beatable, beaten(adj)
+   You can’t beat me.
+   📖 to get the most points, votes etc in a game, race, or competition
 #### Become
+   John became very sick.
+   📖 to start to have a feeling or quality, or to start to develop into something
 #### Beg
+   I beg to differ with you.
+   📖 
 #### Begin
+   The leaves begin to fall when autumn comes.
+   📖 
 #### Behave
+   Tom always behaves himself well. However, Mary does not.
+   📖 
 #### Believe 
+   I believe you’re right.
+   📖 
+#### Belong
+   This bicycle belongs to me.
+   📖 
 #### Bend
+   Lie flat and let your knees bend
+   📖 
 #### Bet
+   I bet you know French.
+   📖 
 #### Bind
+   Do you bind books?
+   📖 
 #### Bite
+   I got bitten by mosquitoes.
+   📖 
 #### Blow
+   Tom blew himself up accidentally.
+   📖 
 #### Boil
+   Please boil an egg for me.
+   📖 
 #### Borrow
+   I need to borrow your car.
+   📖 
 #### Bounce
+   Bounce the ball and try and hit it over the net.
+   📖 
 #### Bow
+   Every child bowed to the teacher.
+   📖 
 #### Break
+   We broke up.
+   📖 
 #### Breed
+   Rabbits breed quickly.
+   📖 
 #### Bring
+   I brought some dessert.
+   📖 
 #### Broadcast
+   We broadcast news on the hour.
+   📖 
 #### Build
+   We need to build a fire.
+   📖 
 #### Burn
+   The spy burned the papers.
+   📖 
 #### Burst
+   John burst into the room.
+   📖 
 #### Buy
-
+   I’ll buy a lot of candies for you.
+   📖 
+#### Curry
+   📖 Prepare or flavor (food) with a sauce of hot-tasting spices.
